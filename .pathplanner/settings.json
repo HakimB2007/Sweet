@@ -1,6 +1,6 @@
 {
-  "robotWidth": 0.46,
-  "robotLength": 0.4572,
+  "robotWidth": 0.65,
+  "robotLength": 0.65,
   "holonomicMode": true,
   "pathFolders": [
     "AMP DAP",
