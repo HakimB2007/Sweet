@@ -4,7 +4,8 @@
   "holonomicMode": true,
   "pathFolders": [
     "AMP DAP",
-    "Leave Paths"
+    "Leave Paths",
+    "Test"
   ],
   "autoFolders": [],
   "defaultMaxVel": 3.0,
